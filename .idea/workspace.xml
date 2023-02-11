@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96238cf5-ebf5-4629-991d-944f0df43551" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LZwROy2PpPXc20IPEEXBBc4AGO" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.HeapOOM">
+    <configuration name="HeapOOM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xx.demo.jvm.oom.HeapOOM" />
+      <module name="springboot-essay" />
+      <option name="VM_PARAMETERS" value="-Xms10m -Xmx10m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xx.demo.jvm.oom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MetaSpaceOOM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xx.demo.jvm.oom.MetaSpaceOOM" />
+      <module name="springboot-essay" />
+      <option name="VM_PARAMETERS" value="-XX:MetaspaceSize=5m -XX:MaxMetaspaceSize=10m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xx.demo.jvm.oom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackOOM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xx.demo.jvm.oom.StackOOM" />
+      <module name="springboot-essay" />
+      <option name="VM_PARAMETERS" value="-XX:ThreadStackSize=1m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xx.demo.jvm.oom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootEssayApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot-essay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xx.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xx.demo.SpringbootEssayApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MetaSpaceOOM" />
+      <item itemvalue="Application.StackOOM" />
+      <item itemvalue="Application.HeapOOM" />
+      <item itemvalue="Spring Boot.SpringbootEssayApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HeapOOM" />
+        <item itemvalue="Application.StackOOM" />
+        <item itemvalue="Application.MetaSpaceOOM" />
+        <item itemvalue="Spring Boot.SpringbootEssayApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96238cf5-ebf5-4629-991d-944f0df43551" name="Default Changelist" comment="" />
+      <created>1676091903358</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676091903358</updated>
+      <workItem from="1676091905314" duration="405000" />
+      <workItem from="1676092588279" duration="2519000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1676095207019">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1676095207019" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1676095215497">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1676095215497" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1676095215495">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1676095215495" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1676095215495">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1676095215495" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1676095215496">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1676095215496" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1676093917756">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1676093917756" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1676093917751">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1676093917751" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1676093917750">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1676093917750" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1676093917752">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1676093917752" />
+  </component>
+</project>
