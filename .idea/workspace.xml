@@ -14,7 +14,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2LZwROy2PpPXc20IPEEXBBc4AGO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -118,7 +122,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676091903358</updated>
       <workItem from="1676091905314" duration="405000" />
-      <workItem from="1676092588279" duration="2519000" />
+      <workItem from="1676092588279" duration="2668000" />
     </task>
     <servers />
   </component>
