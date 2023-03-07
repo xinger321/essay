@@ -15,10 +15,23 @@ import java.lang.reflect.Method;
  * @date: 2023/02/11 13:20
  */
 public class MetaSpaceOOM {
+    public static void log(){
+        try{
+            //将日志写入es集群
+        }catch(Exception e){
+            log();
+        }
+    }
     public static void main(String[] args) {
+        try{
+            //一大堆的业务逻辑
+            log();
+        }catch(Exception e){
+            log();
+        }
+        
         long count = 0;
         while (true){
-            System.out.println("目前已创建"+ (++count) +"个car类的子类");
             Enhancer enhancer = new Enhancer();
             enhancer.setSuperclass(Car.class);
             enhancer.setUseCache(false);
@@ -37,6 +50,7 @@ public class MetaSpaceOOM {
             });
             Car car = (Car) enhancer.create();
             car.run();
+            System.out.println("目前已创建"+ (++count) +"个car类的子类");
         }
     }
     
